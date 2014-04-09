@@ -3,4 +3,4 @@
 
 # Exclude files in ignore/ folders:
 ignore/
-
+*.pyc
