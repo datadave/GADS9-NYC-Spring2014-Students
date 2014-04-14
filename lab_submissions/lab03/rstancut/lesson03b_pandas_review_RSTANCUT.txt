@@ -1,0 +1,15 @@
+1. list
+2. yellow_orange
+3. 2 / 5 = 0; float(2) / float(5) = .4
+4. 'tweet' = dict
+5. 'date' = datetime.datetime
+6. print tweet['text']
+7. 99.9
+8. def mean(s):
+    return sum(s) / len(s)
+9. array([[ 1,  4,  9],
+       [16, 25, 36]])
+10. error
+11. Yes: array([[22, 28],
+       [49, 64]])
+12. No
