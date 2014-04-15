@@ -1,0 +1,26 @@
+Beer is fun and it's also big business.
+
+I've been looking on the web for different data options and I think
+that 'http://www.beerinstitute.org' provides a great resource.
+
+I was able to download an Excel file with dozens of tabs breaking
+down the beer industry over different years, geographical locations,
+etc. 
+
+Technically not an API, please let me know if this goes against the
+spirit of the assignment; I have other candidate sites to scrape 
+from.
+
+I will have uploaded the Excel file for review, file name:
+
+Brewers_Almanac-_20131.xlsx
+
+There is a wealth of information here; some of the things that may
+be plotted:
+
+	* states becoming drier over time
+	* states becoming wetter over time
+	* NY v. NJ comparison
+	
+I'd like to fool around with the data a bit and see what stands out
+and would be most interesting for class presentation. 
