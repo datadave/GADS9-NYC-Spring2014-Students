@@ -1,0 +1,5 @@
+Hi guys! My name is Tim and I am traditionally from a finance background having traded a variety of securities in the past. Recently, however, I have been doing some work in microfinance in Haiti, trying to supply loans to earthquake victims in the Port-au-Prince area. I have degrees in electrical engineering and a master in applied math; I have also done some coding while working in the bank.
+
+Recently, being a huge Knicks fan (and potentially needing a break from this relationship), I have stumbled onto a large amount of new data being used within the NBA. Much of the game of basketball revolves around two major axes -- accumulating posession of the ball, and scoring efficiently. As new data is created by recording the position of the ball and players, data scientists have now been able to estimate the efficiency of each posession. More details are available at grantland.com/features/expected-value-posession-nba-analytics/
+
+I am glad to be a part of this class and am looking forward to meeting you!
