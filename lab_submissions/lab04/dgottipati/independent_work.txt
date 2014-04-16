@@ -1,0 +1,69 @@
+
+1) How many different names of flowers are in this data set?
+A:	 3
+	len(pd.unique(data['Name'])) OR
+	len(data.Name.unique())
+
+2) How many exist of each type of flower?
+A:	data.groupby(['Name'])['Name'].count()
+
+	Name
+	Iris-setosa        50
+	Iris-versicolor    50
+	Iris-virginica     50
+
+3) Determine the min, median, mean, max for each numeric feature in the data set.
+A:	data.describe()
+
+4) Determine the same for each flower type.
+A:	for flower in data.Name.unique():
+    		print flower, data[data.Name == flower].describe()
+
+5a) How does the shape of these results change from the average of all flowers? 
+5b) Which features seem to be the most important in determining what kind of flower it is?
+
+Most Setosa Flower have a 0.244 petal width and a 3.418 sepal width
+Most Iris-versicolor have a 1.326 petal width and a 2.77 sepal width
+Most Iris-virginica have a 2.026 petal width and a 2.974 sepal width
+
+6) Sort the data frame by each column (aside from Name), and print the results of each. 
+What interesting trends exist in this data set, based on distributions?
+A:
+	data.sort(columns=['SepalLength'], ascending=False) -- Iris-virginica has the longest SepalLength
+	data.sort(columns=['SepalWidth'], ascending=False) -- Iris-setosa has the longest SepalWidth
+	data.sort(columns=['PetalLength'], ascending=False) -- Iris-virginica has the longest PetalLength
+	data.sort(columns=['PetalWidth'], ascending=False) -- Iris-virginica has the longest PetalWidth
+
+	data.sort(columns=['SepalLength'], ascending=True) -- Iris-setosa has the shortest SepalLength
+	data.sort(columns=['SepalWidth'], ascending=True) -- Iris-versicolor has the shortest SepalWidth
+								next is Iris-virginica
+	data.sort(columns=['PetalLength'], ascending=True) -- Iris-setosa has the shortest PetalLength
+	data.sort(columns=['PetalWidth'], ascending=True) -- Iris-setosa has the shortest PetalWidth
+
+Iris-virginica has the longest SepalLength, PetalLength and PetalWidth but a shorter SepalWidth
+Iris-Setosa has the shortest SepalLenth, PetalLength and PetalWidth but the longest SepalWidth
+In essence Iris-viriginica and Iris-Setosa are opposite in characteristics
+Iris-vericolor has the shortest SepalWidth in all flowers
+
+7) write several functions to apply to the data frame that attempt to organize the data set using strings instead of floats, like our short_or_long function from lecture. Use this to best summarize your data.	
+
+
+	def text_petal_length(x):
+	  return 'long' if x > 3.758667 else 'short'
+	def text_petal_width(x):
+	  return 'long' if x > 1.198667 else 'short'
+	def text_sepal_length(x):
+	  return 'long' if x > 5.843333 else 'short'
+	def text_sepal_width(x):
+	  return 'long' if x > 3.054 else 'short'
+
+	data['PetalLengthTXT'] = data['PetalLength'].apply(text_petal_length)
+	data['PetalWidthTXT'] = data ['PetalWidth'].apply(text_petal_width)
+	data['SepalLengthTXT'] = data ['SepalLength'].apply(text_sepal_length)
+	data['SepalWidthTXT'] = data ['SepalWidth'].apply(text_sepal_width)
+	data
+
+
+	All of the comments made earlier with the sorting in Q(6) are more evident when you apply the sorting 
+	functions on the same.
+	eg: data.sort(columns=['SepalWidthTXT'], ascending=True)
