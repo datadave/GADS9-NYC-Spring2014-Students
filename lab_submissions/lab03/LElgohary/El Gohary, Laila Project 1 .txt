@@ -1,0 +1,33 @@
+Laila El Gohary 
+Project 1 - Data Collection Overview
+
+
+1. Write up a short piece about what is accessible through the api/web scraping:
+
+I found it difficult to scrape a large enough dataset, or find one available for free in the field I was initially looking into (recipe compositions).
+
+I ended up finding a fabulous dataset through opendata.nyc.gov that lists out every restaurant in the city, as well as their sanitation inspection rating.
+
+In total the set is around 300K, with the following variables:
+Unique Identifier
+Name of Restaurant
+Borough
+Address
+Cuisine Code
+Inspection Date
+Action	
+Violation Code	
+Score
+Current Grade	
+Grade Date
+Record Date
+
+
+2. Write a question of interest using these fields, and generate a hypothesis
+Is there a correlation between cuisine type and the inspection result?
+Are there any patterns that appear between the neighborhood a restaurant is located and the type of food it serves?
+
+3. Given the data's current structure, what changes will you have to make to it?
+The data is pretty clean, through I will import the cuisine types and map them to the code.
+I will also look into gathering the lat/long info based on these addresses and append them so that I can create some maps.
+
