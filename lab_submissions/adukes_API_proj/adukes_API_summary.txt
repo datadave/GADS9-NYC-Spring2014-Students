@@ -1,9 +1,0 @@
-Anastasia Dukes
-
-Data Science - API doc overview
-
-For this project, I will be working with data from the NY Times API. My plan is to investigate travel and 
-
-vacation data trends and travel destination seasonality so that I can hopefully pull out some interesting
-
-findings.
