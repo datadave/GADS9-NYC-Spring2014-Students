@@ -185,49 +185,48 @@ tgp.columns
 
 # <markdowncell>
 
-# tgp.rename(columns={'FG%': 'FGp', '2P': 'FG2P', '2PA': 'FGA2P', '2P%': 'FGp2P', '3P': 'FG3P', '3PA': 'FGA3P', '3P%': 'FGp3P', 'FT%': 'FTp'}, inplace=True)
-# 
-# tgp.FG[np.isnan(tgp.MP)] = np.nan
-# tgp.FGA[np.isnan(tgp.MP)] = np.nan
-# tgp.FGp[np.isnan(tgp.MP)] = np.nan
-# tgp.FG2P[np.isnan(tgp.MP)] = np.nan
-# tgp.FGA2P[np.isnan(tgp.MP)] = np.nan
-# tgp.FGp2P[np.isnan(tgp.MP)] = np.nan
-# tgp.FG3P[np.isnan(tgp.MP)] = np.nan
-# tgp.FGA3P[np.isnan(tgp.MP)] = np.nan
-# tgp.FGp3P[np.isnan(tgp.MP)] = np.nan
-# tgp.FT[np.isnan(tgp.MP)] = np.nan
-# tgp.FTA[np.isnan(tgp.MP)] = np.nan
-# tgp.FTp[np.isnan(tgp.MP)] = np.nan
-# tgp.ORB[np.isnan(tgp.MP)] = np.nan
-# tgp.DRB[np.isnan(tgp.MP)] = np.nan
-# tgp.TRB[np.isnan(tgp.MP)] = np.nan
-# tgp.AST[np.isnan(tgp.MP)] = np.nan
-# tgp.STL[np.isnan(tgp.MP)] = np.nan
-# tgp.BLK[np.isnan(tgp.MP)] = np.nan
-# tgp.TOV[np.isnan(tgp.MP)] = np.nan
-# tgp.PF[np.isnan(tgp.MP)] = np.nan
-# tgp.PTS[np.isnan(tgp.MP)] = np.nan
-# 
-# 
+tgp.rename(columns={'FG%': 'FGp', '2P': 'FG2P', '2PA': 'FGA2P', '2P%': 'FGp2P', '3P': 'FG3P', '3PA': 'FGA3P', '3P%': 'FGp3P', 'FT%': 'FTp'}, inplace=True)
+
+tgp.FG[np.isnan(tgp.MP)] = np.nan
+tgp.FGA[np.isnan(tgp.MP)] = np.nan
+tgp.FGp[np.isnan(tgp.MP)] = np.nan
+tgp.FG2P[np.isnan(tgp.MP)] = np.nan
+tgp.FGA2P[np.isnan(tgp.MP)] = np.nan
+tgp.FGp2P[np.isnan(tgp.MP)] = np.nan
+tgp.FG3P[np.isnan(tgp.MP)] = np.nan
+tgp.FGA3P[np.isnan(tgp.MP)] = np.nan
+tgp.FGp3P[np.isnan(tgp.MP)] = np.nan
+tgp.FT[np.isnan(tgp.MP)] = np.nan
+tgp.FTA[np.isnan(tgp.MP)] = np.nan
+tgp.FTp[np.isnan(tgp.MP)] = np.nan
+tgp.ORB[np.isnan(tgp.MP)] = np.nan
+tgp.DRB[np.isnan(tgp.MP)] = np.nan
+tgp.TRB[np.isnan(tgp.MP)] = np.nan
+tgp.AST[np.isnan(tgp.MP)] = np.nan
+tgp.STL[np.isnan(tgp.MP)] = np.nan
+tgp.BLK[np.isnan(tgp.MP)] = np.nan
+tgp.TOV[np.isnan(tgp.MP)] = np.nan
+tgp.PF[np.isnan(tgp.MP)] = np.nan
+tgp.PTS[np.isnan(tgp.MP)] = np.nan
+
+ 
 
 # <codecell>
 
-categories = ['TRB','AST','STL','BLK','PTS']
-stats = {2:'double-double', 3:'triple-double',4:'quadruple-double',5:'quintuple-double'}
-categories,stats
-
+## Tried defining function to calculate whether a player's box score was a double double, triple double, etc...
+#categories = ['TRB','AST','STL','BLK','PTS']
+#stats = {2:'double-double', 3:'triple-double',4:'quadruple-double',5:'quintuple-double'}
+#categories,stats
 # <codecell>
-
-def mess_around(obs):
-    categories = ['TRB','AST','STL','BLK','PTS']
-    n = 0
-    for c in categories:
-        #print obs[c]
-        if int(obs[c]) >= 10:
-            n+=1
-    return n
-
+#def mess_around(obs):
+#    categories = ['TRB','AST','STL','BLK','PTS']
+#    n = 0
+#    for c in categories:
+#        #print obs[c]
+#        if int(obs[c]) >= 10:
+#            n+=1
+#    return n
+#tgp[(tgp.PTS > 10) & (tgp.TRB >= 10) & (tgp.AST >= 10)].tail()
 # <codecell>
 
 #for x,stat in stats.iteritems():
@@ -238,7 +237,4 @@ def mess_around(obs):
 
 tgp.info()
 
-# <codecell>
-
-tgp[(tgp.PTS > 10) & (tgp.TRB >= 10) & (tgp.AST >= 10)].tail()
 
