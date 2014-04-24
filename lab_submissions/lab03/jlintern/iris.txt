@@ -1,0 +1,91 @@
+1) 3
+
+2) 50 each
+
+3) 
+Mean:
+SepalLength    5.843333
+SepalWidth     3.054000
+PetalLength    3.758667
+PetalWidth     1.198667
+
+Max:
+SepalLength               7.9
+SepalWidth                4.4
+PetalLength               6.9
+PetalWidth                2.5
+
+Min:
+
+SepalLength            4.3
+SepalWidth             2.0
+PetalLength            1.0
+PetalWidth             0.1
+
+Median
+
+SepalLength    5.80
+SepalWidth     3.00
+PetalLength    4.35
+PetalWidth     1.30
+
+4.) mean:
+                     SepalLength  SepalWidth  PetalLength  PetalWidth
+Name                                                             
+Iris-setosa            5.006       3.418        1.464       0.244
+Iris-versicolor        5.936       2.770        4.260       1.326
+Iris-virginica         6.588       2.974        5.552       2.026
+
+min
+SepalLength SepalWidth PetalLength PetalWidth             Name
+Name                                                                          
+Iris-setosa             4.3        2.3         1.0        0.1      
+Iris-versicolor         4.9        2.0         3.0        1.0  
+Iris-virginica          4.9        2.2         4.5        1.4
+
+max
+
+
+                SepalLength SepalWidth PetalLength PetalWidth             Name
+Name                                                                          
+Iris-setosa             5.8        4.4         1.9        0.6      
+Iris-versicolor         7.0        3.4         5.1        1.8  
+Iris-virginica          7.9        3.8         6.9        2.5
+
+
+  SepalLength  SepalWidth  PetalLength  PetalWidth
+Name                                                             
+Iris-setosa              5.0         3.4         1.50         0.2
+Iris-versicolor          5.9         2.8         4.35         1.3
+Iris-virginica           6.5         3.0         5.55         2.0
+
+5a.  We see that there seems to be a trend from shortest to longest
+(for petal/ sepal length) going from setosa to virginica (and opposite
+trend for width.). 
+
+6)  It seems that the petal dimensions provide the most pronounced
+differences.
+
+
+7)  One interesting trend is that the flower types are "cleanly"
+divided by whatever column I sort the data by.
+
+
+8)  example function:
+
+x= iris.PetalWidth
+def petal_width(x):
+    if x > 1.5:
+        return 'wide'
+    else: 
+        return 'narrow'
+
+iris['summ']= iris.PetalWidth.apply(petal_width)
+
+print iris['summ']
+
+
+
+
+
+
