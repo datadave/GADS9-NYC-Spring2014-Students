@@ -5,6 +5,13 @@ class Car():
 		self.model = model
 		self.running = False
 		self.wheels = wheels
+		# Car wheel check; sets count to zero if negative wheel count given.
+		if self.wheels < 0:
+			print 'The car cannot have negative wheels!'
+			self.wheels = 0
+			print 'The wheels have been set to zero.'
+		else:
+			print 'The car has %s wheels.' % self.wheels
 	
 	# Car 'start' function, deals w/car on or off.
 	def start(self):
@@ -22,14 +29,7 @@ class Car():
 		else:
 			print 'The car was not running!'
 	
-	# Car wheel check; sets count to zero if negative wheel count given.
-	def check_wheels(self):
-		if self.wheels < 0:
-			print 'The car cannot have negative wheels!'
-			self.wheels = 0
-			print 'The wheels have been set to zero.'
-		else:
-			print 'The car has %s wheels.' % self.wheels
+
 
 # assign class 'Car' to var 'ford'			
 ford = Car()
@@ -37,8 +37,8 @@ ford = Car()
 # assign class 'Car' to var 'nissan' with new model and wheel attributes
 nissan = Car(model = 'Nissan', wheels = -3)
 
-# check wheel count on 'nissan'
-nissan.check_wheels()
+# print wheel count on 'nissan'
+print 'The Nissan car has %s wheels.' % nissan.wheels
 
 # check 'running' status; should be False
 ford.running
