@@ -1,0 +1,1124 @@
+{
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "_id": "5341077f7988101c86a5e0cd",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "original": "By KIRK SEMPLE",
+                    "person": [
+                        {
+                            "firstname": "Kirk",
+                            "lastname": "SEMPLE",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Search Crews Detect Signals They Say May Be From Missing Malaysian Jet",
+                    "print_headline": "Search Crews Detect Signals They Say May Be From Missing Malaysian Jet "
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "5",
+                        "value": "Malaysia Airlines"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "3",
+                        "value": "Indian Ocean"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "4",
+                        "value": "Kuala Lumpur (Malaysia)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Aviation Accidents and Safety"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "6",
+                        "value": "Australia"
+                    }
+                ],
+                "lead_paragraph": "The chief of the Australian team coordinating the search for Malaysia Airlines Flight 370 said Monday that it had detected \u201ctransmissions consistent with\u201d flight recorders, possibly from the missing jet.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/04/06/world/PLANE/PLANE-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/04/06/world/PLANE/PLANE-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 344,
+                        "legacy": {
+                            "xlarge": "images/2014/04/06/world/PLANE/PLANE-articleLarge.jpg",
+                            "xlargeheight": "344",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/04/06/world/PLANE/PLANE-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/04/06/world/PLANE/PLANE-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/04/06/world/PLANE/PLANE-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-04-07T00:00:00Z",
+                "section_name": "World",
+                "snippet": "The chief of the Australian team coordinating the search for Malaysia Airlines Flight 370 said Monday that it had detected \u201ctransmissions consistent with\u201d flight recorders, possibly from the missing jet.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/04/07/world/asia/malaysia-airlines-flight-370.html",
+                "word_count": "850"
+            },
+            {
+                "_id": "5324bbc879881068640fb56e",
+                "abstract": "Investigation into disappearance of Malaysia Airlines Flight 370 shifts to include anyone on board with navigation or aircraft background in response to evidence that plane was deliberately diverted from its route and, after communication was lost, navigated by someone with expertise; development brings new scrutiny to pilot and first officer, Capt Zaharie Ahmad Shah and Fariq Abdul Hamid.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Kirk Semple reported from Kuala Lumpur, and Michael Forsythe from Sepang, Malaysia.",
+                    "original": "By KIRK SEMPLE and MICHAEL FORSYTHE",
+                    "person": [
+                        {
+                            "firstname": "Kirk",
+                            "lastname": "SEMPLE",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        },
+                        {
+                            "firstname": "Michael",
+                            "lastname": "FORSYTHE",
+                            "organization": "",
+                            "rank": 2,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Passengers and Crew of Missing Plane Scrutinized for Aviation Skills",
+                    "print_headline": "Passengers and Crew of Missing Plane Scrutinized for Aviation Skills"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "5",
+                        "value": "Malaysia"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "7",
+                        "value": "Zaharie Ahmad Shah"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "3",
+                        "value": "Malaysia Airlines"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "6",
+                        "value": "Fariq Abdul Hamid"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Aviation Accidents and Safety"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Pilots"
+                    }
+                ],
+                "lead_paragraph": "The focus of the investigation returned to two people on board with expertise \u2014 the pilot and his first officer.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/03/16/world/pilots/pilots-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/03/16/world/pilots/pilots-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 395,
+                        "legacy": {
+                            "xlarge": "images/2014/03/16/world/pilots/pilots-articleLarge.jpg",
+                            "xlargeheight": "395",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/03/16/world/pilots/pilots-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/03/16/world/pilots/pilots-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/03/16/world/pilots/pilots-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-03-16T00:00:00Z",
+                "section_name": "World",
+                "snippet": "The focus of the investigation returned to two people on board with expertise \u2014 the pilot and his first officer.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/03/16/world/asia/pilot-and-first-officer-newly-scrutinized-in-planes-disappearance.html",
+                "word_count": "978"
+            },
+            {
+                "_id": "532171a679881001a9c5413b",
+                "abstract": "\"Official says investigators are examining data seeming to show that missing Malaysia Airlines jetliner was still in automated communication with satellite systems, and may therefore still have been airborne, for hours after ground controllers last heard from it;\" information adds to growing belief that jet turned off course after contact was lost and could have flown hundreds of miles west.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Matthew L. Wald reported from Washington and Thomas Fuller from Sepang, Malaysia. Reporting was contributed by Michael Forsythe from Sepang, Keith Bradsher and Chris Buckley from Hong Kong, Alan Cowell from London, Gardiner Harris from New Delhi and Christopher Drew, Thom Shanker and Eric Schmitt from Washington.",
+                    "original": "By MATTHEW L. WALD and THOMAS FULLER",
+                    "person": [
+                        {
+                            "firstname": "Matthew",
+                            "lastname": "WALD",
+                            "middlename": "L.",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        },
+                        {
+                            "firstname": "Thomas",
+                            "lastname": "FULLER",
+                            "organization": "",
+                            "rank": 2,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Jet Hunt Shifts as Findings Hint at Longer Flight",
+                    "print_headline": "Jet Hunt Shifts After Data Hints at Longer Flight"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "1",
+                        "value": "Malaysia Airlines"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "3",
+                        "value": "Malaysia"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Aviation Accidents and Safety"
+                    }
+                ],
+                "lead_paragraph": "Experts were poring over military radar data that seemed to indicate that the missing Malaysian flight had turned west and stayed aloft long after its last contact with ground controllers.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/03/14/world/14flight-375-02/14flight-375-02-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/03/14/world/14flight-375-02/14flight-375-02-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2014/03/14/world/14flight-375-02/14flight-375-02-articleLarge.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/03/14/world/14flight-375-02/14flight-375-02-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/03/14/world/14flight-375-02/14flight-375-02-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/03/14/world/14flight-375-02/14flight-375-02-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-03-14T00:00:00Z",
+                "section_name": "World",
+                "snippet": "Experts were poring over military radar data that seemed to indicate that the missing Malaysian flight had turned west and stayed aloft long after its last contact with ground controllers.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/03/14/world/asia/missing-malaysia-airlines-flight-370.html",
+                "word_count": "1115"
+            },
+            {
+                "_id": "5332a3b079881076e860094a",
+                "abstract": "Malaysia\u2019s defense minister says satellite sightings of 122 objects floating southwest of Australia in Indian Ocean are most credible lead so far in search for Malatysia Airlines Flight 370; eleven aircraft and five ships are scouring the target area.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Keith Bradsher reported from Kuala Lumpur, Malaysia, and Nicola Clark from Paris. Michelle Innis contributed reporting from Sydney, Australia, and Kirk Semple from Kuala Lumpur.",
+                    "original": "By KEITH BRADSHER and NICOLA CLARK",
+                    "person": [
+                        {
+                            "firstname": "Keith",
+                            "lastname": "BRADSHER",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        },
+                        {
+                            "firstname": "Nicola",
+                            "lastname": "CLARK",
+                            "organization": "",
+                            "rank": 2,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "New Satellite Images Said to Be \u2018Credible Lead\u2019 in Malaysia Jet Hunt",
+                    "print_headline": "New Images Said to Be \u2018Credible Lead\u2019 in Jet Search"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "5",
+                        "value": "Hishammuddin Hussein"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "7",
+                        "value": "Malaysia Airlines"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Satellites"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "glocations",
+                        "rank": "6",
+                        "value": "Malaysia"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Aviation Accidents and Safety"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "4",
+                        "value": "Indian Ocean"
+                    }
+                ],
+                "lead_paragraph": "Malaysia\u2019s defense minister said satellite images taken Sunday showed 122 objects floating southwest of Australia.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/03/26/world/PLANE-2/PLANE-2-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/03/26/world/PLANE-2/PLANE-2-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 410,
+                        "legacy": {
+                            "xlarge": "images/2014/03/26/world/PLANE-2/PLANE-2-articleLarge.jpg",
+                            "xlargeheight": "410",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/03/26/world/PLANE-2/PLANE-2-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/03/26/world/PLANE-2/PLANE-2-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/03/26/world/PLANE-2/PLANE-2-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-03-27T00:00:00Z",
+                "section_name": "World",
+                "snippet": "Malaysia\u2019s defense minister said satellite images taken Sunday showed 122 objects floating southwest of Australia.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/03/27/world/asia/missing-malaysia-airlines-flight-370.html",
+                "word_count": "955"
+            },
+            {
+                "_id": "532e1e5f7988102179a9d457",
+                "abstract": "\"Interviews with experts and investigators reveal a portrait, albeit incomplete, of Malaysia Airlines Flight 370 and the search to find it;\" more than two weeks after flight disappeared, unbridled speculation surrounds the unfolding global drama.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Kirk Semple reported from Kuala\r\nLumpur and aboard Malaysia Airlines\r\nFlight 318. Reporting was\r\ncontributed by Michael Forsythe\r\nand Chris Buckley from Sepang,\r\nMalaysia; Keith Bradsher from\r\nHong Kong; Edward Wong from\r\nBeijing; Rahman Roslan from\r\nKuala Lumpur; Nicola Clark from\r\nParis; Thomas Erdbrink from\r\nTehran; Jad Mouawad and Christopher\r\nDrew from New York; and\r\nEric Schmitt, Michael S. Schmidt\r\nand Matthew L. Wald from Washington.\r\nAmy Qin and Mia Li contributed\r\nresearch from Beijing.",
+                    "original": "By PHILIP P. PAN and KIRK SEMPLE",
+                    "person": [
+                        {
+                            "firstname": "Philip",
+                            "lastname": "PAN",
+                            "middlename": "P.",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        },
+                        {
+                            "firstname": "Kirk",
+                            "lastname": "SEMPLE",
+                            "organization": "",
+                            "rank": 2,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Retracing a Lost Flight",
+                    "main": "A Routine Flight, Till Both Routine and Flight Vanish",
+                    "print_headline": "A Routine Flight, Till Both Routine and Flight Vanish"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "5",
+                        "value": "Malaysia"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "3",
+                        "value": "Zaharie Ahmad Shah"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "4",
+                        "value": "Fariq Abdul Hamid"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Aviation Accidents and Safety"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "6",
+                        "value": "Malaysia Airlines"
+                    }
+                ],
+                "lead_paragraph": "As the search for the missing Malaysia Airlines plane continues, experts and investigators have attempted to construct a portrait of Flight 370 with what is known.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/03/23/world/asia/SUB-PLANE-1/SUB-PLANE-1-thumbWide-v2.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/03/23/world/asia/SUB-PLANE-1/SUB-PLANE-1-thumbWide-v2.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2014/03/23/world/asia/SUB-PLANE-2/SUB-PLANE-2-articleLarge-v2.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/03/23/world/asia/SUB-PLANE-2/SUB-PLANE-2-articleLarge-v2.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/03/23/world/asia/SUB-PLANE-1/SUB-PLANE-1-thumbStandard-v2.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/03/23/world/asia/SUB-PLANE-1/SUB-PLANE-1-thumbStandard-v2.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-03-23T00:00:00Z",
+                "section_name": "World",
+                "snippet": "As the search for the missing Malaysia Airlines plane continues, experts and investigators have attempted to construct a portrait of Flight 370 with what is known.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/03/23/world/asia/a-routine-flight-till-both-routine-and-flight-vanish.html",
+                "word_count": "2646"
+            },
+            {
+                "_id": "533fffde7988102df41a6a3f",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "contributor": "Chris Buckley contributed reporting from Hong Kong, Nicola Clark from Paris, and Michelle Innis from Sydney, Australia.",
+                    "original": "By KIRK SEMPLE",
+                    "person": [
+                        {
+                            "firstname": "Kirk",
+                            "lastname": "SEMPLE",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Ship Reports Getting Signal That Could Be Black Box of Missing Jet",
+                    "print_headline": "Ship Reports Getting Signal That Could Be Black Box of Missing Jet"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "5",
+                        "value": "Airlines and Airplanes"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "3",
+                        "value": "China"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "2",
+                        "value": "Indian Ocean"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Aviation Accidents and Safety"
+                    }
+                ],
+                "lead_paragraph": "Australian authorities said that they were investigating reports by ships in the search flotilla that underwater sensors had picked up signals that could be from the plane\u2019s data and voice recorders.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/04/06/world/PLANE/PLANE-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/04/06/world/PLANE/PLANE-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 344,
+                        "legacy": {
+                            "xlarge": "images/2014/04/06/world/PLANE/PLANE-articleLarge.jpg",
+                            "xlargeheight": "344",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/04/06/world/PLANE/PLANE-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/04/06/world/PLANE/PLANE-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/04/06/world/PLANE/PLANE-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-04-06T00:00:00Z",
+                "section_name": "World",
+                "snippet": "Australian authorities said that they were investigating reports by ships in the search flotilla that underwater sensors had picked up signals that could be from the plane\u2019s data and voice recorders.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/04/06/world/asia/malaysia-airlines-plane.html",
+                "word_count": "990"
+            },
+            {
+                "_id": "5324fc0f79881068640fb5c7",
+                "abstract": "Long series of errors and delays, like missed radar blip, by Malaysian government has made the geographically vast and technologically complex task of finding Malaysian Airlines Flight 370 far more difficult.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Chris Buckley contributed reporting from Sepang, Nicola Clark from Paris, and Matthew L. Wald from Washington.",
+                    "original": "By KEITH BRADSHER and MICHAEL FORSYTHE",
+                    "person": [
+                        {
+                            "firstname": "Keith",
+                            "lastname": "BRADSHER",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        },
+                        {
+                            "firstname": "Michael",
+                            "lastname": "FORSYTHE",
+                            "organization": "",
+                            "rank": 2,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Series of Errors by Malaysia Mounts, Complicating the Task of Finding Flight 370",
+                    "print_headline": "Series of Missteps by Malaysia Mounts, Complicating the Task of Finding Flight 370"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "5",
+                        "value": "Kuala Lumpur (Malaysia)"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Aviation Accidents and Safety"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "glocations",
+                        "rank": "8",
+                        "value": "Malaysia"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "6",
+                        "value": "Indian Ocean"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "7",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Defense and Military Forces"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Radar"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "4",
+                        "value": "Malaysia Airlines"
+                    }
+                ],
+                "lead_paragraph": "A week after the plane disappeared, the trail is even colder as the search now sprawls from the snowy peaks of the Himalayas to the empty expanses of the southern Indian Ocean.",
+                "multimedia": [],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-03-16T00:00:00Z",
+                "section_name": "World",
+                "snippet": "A week after the plane disappeared, the trail is even colder as the search now sprawls from the snowy peaks of the Himalayas to the empty expanses of the southern Indian Ocean.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/03/16/world/asia/series-of-errors-by-malaysia-mounts-complicating-the-task-of-finding-flight-370.html",
+                "word_count": "1382"
+            },
+            {
+                "_id": "5325718f79881068640fb683",
+                "abstract": "\"Malaysian official reveals last transmission from Captain Zaharie Ahmad Shah of Malaysian Airlines Flight 370 came after plane's signalling system was disabled, fueling speculation that one or both pilots may have been involved in diverting the plane;\" suspicion of foulplay has refocused case, as officials brief representatives from 22 countries that will aid in coordinated search along two corridors where plane may have wound up.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Michael Forsythe contributed reporting from Sepang, Malaysia, and Kirk Semple from Kuala Lumpur.",
+                    "original": "By CHRIS BUCKLEY and KEITH BRADSHER",
+                    "person": [
+                        {
+                            "firstname": "Chris",
+                            "lastname": "BUCKLEY",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        },
+                        {
+                            "firstname": "Keith",
+                            "lastname": "BRADSHER",
+                            "organization": "",
+                            "rank": 2,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Timing of Report by Flight\u2019s Pilot Focuses Inquiry",
+                    "print_headline": "Timing of Report by Flight\u2019s Pilot Focuses Inquiry"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "5",
+                        "value": "Zaharie Ahmad Shah"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Aviation Accidents and Safety"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "glocations",
+                        "rank": "3",
+                        "value": "Malaysia"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "2",
+                        "value": "Malaysia Airlines"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "6",
+                        "value": "Najib Razak"
+                    }
+                ],
+                "lead_paragraph": "The pilot did not mention any trouble, a senior Malaysian official said, reinforcing theories that one or both of the pilots may have been involved in diverting the plane.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/03/17/world/FLIGHT-1/FLIGHT-1-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/03/17/world/FLIGHT-1/FLIGHT-1-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 399,
+                        "legacy": {
+                            "xlarge": "images/2014/03/17/world/FLIGHT-1/FLIGHT-1-articleLarge.jpg",
+                            "xlargeheight": "399",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/03/17/world/FLIGHT-1/FLIGHT-1-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/03/17/world/FLIGHT-1/FLIGHT-1-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/03/17/world/FLIGHT-1/FLIGHT-1-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-03-17T00:00:00Z",
+                "section_name": "World",
+                "snippet": "The pilot did not mention any trouble, a senior Malaysian official said, reinforcing theories that one or both of the pilots may have been involved in diverting the plane.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/03/17/world/asia/malaysia-airlines-flight.html",
+                "word_count": "1671"
+            },
+            {
+                "_id": "5326de697988105740e5f1cb",
+                "abstract": "\"American officials say first turn to the west that diverted missing Malaysia Airlines plane from its planned route was carried out through a computer system that was most likely programmed by someone in plane\u2019s cockpit;\" fact reinforces belief of investigators that plane was deliberately diverted and that foul play was involved, and increases focus on plane's captain and first officer.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Chris Buckley and Keith Bradsher contributed reporting from Sepang, Malaysia, and Edward Wong from Beijing.",
+                    "original": "By MATTHEW L. WALD and MICHAEL S. SCHMIDT",
+                    "person": [
+                        {
+                            "firstname": "Matthew",
+                            "lastname": "WALD",
+                            "middlename": "L.",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        },
+                        {
+                            "firstname": "Michael",
+                            "lastname": "SCHMIDT",
+                            "middlename": "S.",
+                            "organization": "",
+                            "rank": 2,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Lost Jet\u2019s Path Seen as Altered via Computer",
+                    "print_headline": "Lost Jet\u2019s Path Seen as Altered via Computer"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Aviation Accidents and Safety"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "2",
+                        "value": "Malaysia Airlines"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "4",
+                        "value": "Malaysia"
+                    }
+                ],
+                "lead_paragraph": "The first turn that diverted the missing Malaysia Airlines plane from its route was entered into a computer system, most likely by someone in the plane\u2019s cockpit, American officials said.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/03/18/world/asia/18flight2/18flight2-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/03/18/world/asia/18flight2/18flight2-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2014/03/18/world/asia/18flight2/18flight2-articleLarge.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/03/18/world/asia/18flight2/18flight2-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/03/18/world/asia/18flight2/18flight2-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/03/18/world/asia/18flight2/18flight2-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-03-18T00:00:00Z",
+                "section_name": "World",
+                "snippet": "The first turn that diverted the missing Malaysia Airlines plane from its route was entered into a computer system, most likely by someone in the plane\u2019s cockpit, American officials said.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/03/18/world/asia/malaysia-airlines-flight.html",
+                "word_count": "1020"
+            },
+            {
+                "_id": "53204b1a79881012a4bf012a",
+                "abstract": "\"Malaysian military admits that it recorded, but initially ignored, radar signals from the last known location of Malaysia Airlines Flight 370, suggesting that plane may have turned away from its original course;\" data shows unidentified aircraft headed west out into Indian ocean, prompting officials to expand search area to take in 27,000 square nautical miles; military is now sharing data with American agencies.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Reporting was contributed by Keith Bradsher and Chris Buckley from Hong Kong, Patrick Zuo from Beijing, and Eric Schmitt and Matthew L. Wald from Washington.",
+                    "original": "By MICHAEL FORSYTHE and THOMAS FULLER",
+                    "person": [
+                        {
+                            "firstname": "Michael",
+                            "lastname": "FORSYTHE",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        },
+                        {
+                            "firstname": "Thomas",
+                            "lastname": "FULLER",
+                            "organization": "",
+                            "rank": 2,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Signals on Radar Puzzle Officials in Hunt for Malaysian Jet",
+                    "print_headline": "Signals on Radar Puzzle Officials in Hunt for Jet"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "5",
+                        "value": "Malaysia Airlines Flight 370"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "3",
+                        "value": "Malaysia Airlines"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Aviation Accidents and Safety"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Radar"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "glocations",
+                        "rank": "4",
+                        "value": "Malaysia"
+                    }
+                ],
+                "lead_paragraph": "Malaysian authorities were struggling to interpret data showing what could be the lost Malaysia Airlines Flight 370 veering off course and hundreds of miles from its last known position.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2014/03/13/world/jpflight/jpflight-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2014/03/13/world/jpflight/jpflight-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 420,
+                        "legacy": {
+                            "xlarge": "images/2014/03/13/world/jpflight/jpflight-articleLarge.jpg",
+                            "xlargeheight": "420",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2014/03/13/world/jpflight/jpflight-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/03/13/world/jpflight/jpflight-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2014/03/13/world/jpflight/jpflight-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Foreign",
+                "print_page": null,
+                "pub_date": "2014-03-13T00:00:00Z",
+                "section_name": "World",
+                "snippet": "Malaysian authorities were struggling to interpret data showing what could be the lost Malaysia Airlines Flight 370 veering off course and hundreds of miles from its last known position.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2014/03/13/world/asia/missing-malaysia-airlines-flight-370.html",
+                "word_count": "1113"
+            }
+        ],
+        "meta": {
+            "hits": 14271,
+            "offset": 0,
+            "time": 25
+        }
+    },
+    "status": "OK"
+}

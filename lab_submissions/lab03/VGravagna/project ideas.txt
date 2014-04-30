@@ -1,0 +1,13 @@
+Project
+
+I think what I will do for my project is use the NYTimes Most Popular API and find out what news topics are the most popular.
+I'm not sure what data can be extracted from this API yet. I believe it's a relatively new API.
+
+I was going to use Retrosheet.org and find out if, in fact! (jk), Wrigley Field is jinxed or is it the Goat's curse.
+(Small bit of Chicago Cubs lore.)
+Retrosheet.org is great in that I can download 100's of years of data for free.
+However, baseball is very complicated and I'm not sure I could ever answer my own question!
+But I might be able to find out some interesting stats from it for the assignment.
+
+Am I on the right track for what we're supposed to accomplish for this assignment? Any suggestions?
+

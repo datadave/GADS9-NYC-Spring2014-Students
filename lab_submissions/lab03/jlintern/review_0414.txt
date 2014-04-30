@@ -1,0 +1,28 @@
+
+1) list
+2) yellow_orange
+3) 0,      .4
+
+
+1) dict
+2)datetime.datetime
+3) print tweet['text']
+4) some_values = [100, 107.7, 92]
+
+1)def mean(s):
+       return sum(s) / len(s)
+
+
+1) a* b => will multiply each element of array a by each corresponding 
+elemetn of array b 
+
+2) This fails because the dot product requires complimentary matrix dimensions.
+For example : a (2 x 3) . (3 x 2) matrix does work, because the column dim of the 1st mat 
+is equal to the row dim. of the 2nd matrix.
+
+3) yes: the arrays are the same: the entries and 2 different
+ways of structuring the same thing (where the 1st utilizes numpy)
+
+4) no. Matrix a.c is not equal to matrix c.a : (one will 
+result in a 2 x 2 matirx, and the other will be 3 x 3
+

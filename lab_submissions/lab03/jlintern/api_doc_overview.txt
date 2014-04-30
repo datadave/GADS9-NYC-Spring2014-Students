@@ -1,0 +1,11 @@
+
+For my project, I will be scraping from the Healthcare.gov website.
+
+
+The site comes with an Api.  I hope to use this. 
+(depending on how well it works) - otherwise, I will use beautifulsoup
+
+
+My goal is to acquire a breakdown of participation by state. 
+And study the correlation between state color (blue/red) and state participation.
+
