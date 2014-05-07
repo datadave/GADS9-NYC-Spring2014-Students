@@ -1,0 +1,10 @@
+Laila El Gohary
+Project 2 Description
+32BJ Commercial Membership - Volunteer Classification
+
+Background:
+My goal for this project is to determine which of our members is more likely to volunteer in the next contract campaign. 
+The dataset I will be using has information on 26 thousand cleaners, handymen and janitors that work in office buildings, whose contract is expiring at the end of the year.  Fields that are available, (or can be appended) include member infomation, where they work, how many points they have (a score based on how many activities they've been to), as well as whether they contribute to our political action fund. 
+
+I will attempt to clean the data, do some exploratory visualizations and some basic classification.  For this project, I think that linear regressions, some Naive Bayes and maybe KNN classification.
+
