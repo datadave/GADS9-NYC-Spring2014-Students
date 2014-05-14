@@ -7,3 +7,8 @@ I am going to use the same dataset I scraped for Project 1, NCAA men's basketbal
 The category or categories you'd like to predict: 
 
 I'd like to predict a player's conference based on their height, year and box scores stats (minutes, points, rebounds, assists) throughout the season. Alternatively, I might try to predict players' box score stats (points and/or rebounds per game) based on their heights and conference affiliation.
+
+
+# Should I classify conferences as major/mid/small in order to decrease classification options? Just major/small so binary?
+
+##How do you find the break point for separating continuous data into (binary) classifications?
