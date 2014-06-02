@@ -1,0 +1,39 @@
+Possible Classifications
+
+1. tip based off zip code
+2. tip based off order type (wine or alcohol)
+
+Predict order by zip, time and weather
+how to categorize the product
+
+repeat order likely hood
+
+Total money spent based off of time, zip code
+
+Total spent on wine based off of zip code and time/date
+
+look at promo code discount vs zip code
+
+Predictions
+- total based off of time and zip
+- Is there a way to predict repeat business?
+- Can an order metric be created for this?
+
+sparsePCA for zip
+
+f_regression on the zip to understand the significance of zip
+
+Project 2 - Classifier
+- Wine amount for day and zip
+
+Final Project
+- Predict the total order amount of wine or liquor for a given zip code based off of day and time, previous orders
+- Predict the type of liquor for a given zip code
+
+Predict if they spend more on wine or liquor?
+New column - wine or liquor larger spend or equal
+
+Use Hour, zip, tip, total cost
+
+split the time to just hours
+Split the zip into dummy columns
