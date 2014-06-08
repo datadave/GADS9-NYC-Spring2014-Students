@@ -1,0 +1,62 @@
+1
+SELECT Country, Count(*)
+FROM Customers
+GROUP BY Country
+
+ANS:  7 PEOPLE FROM UK
+
+2
+SELECT CustomerID, Count(*)
+FROM [Orders]
+
+ANS: CustomerID: 196
+
+3
+SELECT SupplierID, Price 'price'
+FROM [Products] 
+GROUP BY Price
+ORDER BY price DESC;
+
+ANS: 263.5   - SupplierID
+
+4
+SELECT CategoryID, COUNT(*) 'count'
+FROM [Products]
+JOIN OrderDetails on (Products.ProductID=OrderDetails.ProductID)
+GROUP BY CategoryID
+ORDER BY count;
+
+ANS: CATEGORYID # 4  (with 100 orders)
+
+5
+SELECT EmployeeID, Count(*) 'count'
+FROM [Orders]
+GROUP BY EmployeeID
+ORDER BY count DESC;
+
+ANS: EMP ID #4  (with 40 sales)
+
+6
+
+SELECT EmployeeID 'emp', SUM(Price*Quantity)
+FROM [Products]
+JOIN OrderDetails on (OrderDetails.ProductID=Products.ProductID)
+JOIN Orders on (Orders.OrderID=OrderDetails.OrderID)
+
+GROUP BY emp
+
+ANS: EMP #1 (with 58K )
+
+7
+SELECT Notes LIKE 'BS'
+FROM [Employees]
+
+8
+SELECT Avg(Price), SupplierName
+From [Products]
+JOIN Suppliers on (Suppliers.SupplierID=Products.SupplierID)
+GROUP BY SupplierName
+
+ANS = Aux Joyeux ecclesiastiques
+
+
